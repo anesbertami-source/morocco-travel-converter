@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # morocco_travel_converter
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# morocco-travel-converter
+Une application Flutter moderne pour découvrir les villes magnifiques du Maroc  et convertir les devises en temps réel. Explorez, convertissez et collectionnez  vos destinations préférées! 🧳✨
+>>>>>>> 0a9a68e8fc16a0fb768fd8898deab5006b1d6d44
